@@ -5,7 +5,7 @@
 	<groupId>com.poc.ml</groupId>
 	<artifactId>microservices</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>microservices</name>
 	<url>http://maven.apache.org</url>
